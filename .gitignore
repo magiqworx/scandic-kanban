@@ -1,0 +1,10 @@
+frontendnode_modules/
+.next/
+out/
+dist/
+coverage/
+test-results/
+playwright-report/
+.env*
+*.log
+.DS_Store
